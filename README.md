@@ -24,7 +24,7 @@ Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
 Qt with Mod chart:https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
 
-
+Mami:https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
 
 
 
