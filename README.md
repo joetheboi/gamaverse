@@ -21,3 +21,5 @@ In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update
 Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
 
 Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
+
+Qt with Mod chart:https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
