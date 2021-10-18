@@ -1,6 +1,6 @@
 # gameverse-fnf
 GameVerse FNF
-tell me what to add in "issues" 
+tell me what to add in "issues"  Also The Reason why i made this is down this page
 
 
 
@@ -23,3 +23,17 @@ Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition
 Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
 Qt with Mod chart:https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
+
+
+
+
+
+
+
+# The Main Reason
+So i notice there was alot of ads in the page that also slow down or lag the game especially on low performance Pc or Laptop 
+also u can use this sites to add it to a iframe to add it to your site (For example:Google Sites or Wix or Weebly) 
+
+
+
+![Screenshot 2021-10-18 4 15 08 PM](https://user-images.githubusercontent.com/62034513/137800491-58c3143a-1b5c-46dc-b6b7-ca5ca9585c1c.png)
