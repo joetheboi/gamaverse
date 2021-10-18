@@ -22,11 +22,11 @@ Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition
 
 Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
-Qt with Mod chart:https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
+Qt with Mod chart: https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
 
-Mami:https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
+Mami: https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
 
-Multiplayer:"https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
+Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
 
 
