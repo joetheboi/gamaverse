@@ -26,7 +26,7 @@ Qt with Mod chart:https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night
 
 Mami:https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
 
-
+Multiplayer:"https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
 
 
