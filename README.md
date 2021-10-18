@@ -1,6 +1,6 @@
 # gameverse-fnf
-iframe GameVerse FNF
-
+GameVerse FNF
+tell me what to add in "issues" 
 
 
 
