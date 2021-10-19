@@ -28,7 +28,7 @@ Mami: https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
 
 Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
-Sonic.EXE:https://gameverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/
+Sonic.EXE:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/
 
 
 # The Main Reason
