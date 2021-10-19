@@ -33,6 +33,17 @@ Sonic.EXE:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funki
 Vs./V/: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
 
 Fever: https://gamaverse.com/c/f/g/fnf-friday-night-fever/
+
+B&B LOW: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/
+High:https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosipo-friday-night-funkin/?10
+
+ Accelerant Hank:https://gamaverse.com/c/f/g/fnf-vs-accelerant-hank-friday-night-funkin/
+
+
+
+
+
+
 # The Main Reason
 So i notice there was alot of ads in the page that also slow down or lag the game especially on low performance Pc or Laptop 
 also u can use this sites to add it to a iframe to add it to your site (For example:Google Sites or Wix or Weebly) 
