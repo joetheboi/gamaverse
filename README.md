@@ -30,6 +30,7 @@ Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multipla
 
 Sonic.EXE:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/
 
+Vs./V/:http://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
 
 # The Main Reason
 So i notice there was alot of ads in the page that also slow down or lag the game especially on low performance Pc or Laptop 
