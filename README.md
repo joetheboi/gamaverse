@@ -34,10 +34,15 @@ Vs./V/: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
 
 Fever: https://gamaverse.com/c/f/g/fnf-friday-night-fever/
 
-B&B LOW: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/
+B&B 
+LOW: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/
 High:https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosipo-friday-night-funkin/?10
 
- Accelerant Hank:https://gamaverse.com/c/f/g/fnf-vs-accelerant-hank-friday-night-funkin/
+Accelerant Hank:https://gamaverse.com/c/f/g/fnf-vs-accelerant-hank-friday-night-funkin/
+
+Endlees(BETACIU)
+Low:https://gamaverse.com/c/f/g/fnf-endless-betadciu-potato-edition/
+High:https://gamaverse.com/c/f/g/fnf-endless-betadciu-friday-night-funkin/
 
 
 
