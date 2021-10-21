@@ -44,7 +44,7 @@ Endlees(BETACIU)
 Low:https://gamaverse.com/c/f/g/fnf-endless-betadciu-potato-edition/
 High:https://gamaverse.com/c/f/g/fnf-endless-betadciu-friday-night-funkin/
 
-
+Vs Camellia:https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
 
 
