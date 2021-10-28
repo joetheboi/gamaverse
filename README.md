@@ -49,8 +49,7 @@ Vs Camellia:https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 FNF-Dusttale:https://gamaverse.com/c/f/g/fnf-dusttale-remastered-online-friday-night-funkin/
 
 Little Man 2:https://gamaverse.com/c/f/g/fnf-vs-little-man-2-online-friday-night-funkin/
-
-																																Suicide Mouse 
+                                                                    #Suicide Mouse 
 Original:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-sunday-night-suicide/
 NEO:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-neo-3-0/
 But bad:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-but-bad-friday-night-funkin/
