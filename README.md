@@ -71,6 +71,8 @@ FNF-Dusttale:https://gamaverse.com/c/f/g/fnf-dusttale-remastered-online-friday-n
 
 Little Man 2:https://gamaverse.com/c/f/g/fnf-vs-little-man-2-online-friday-night-funkin/
 
+DDLC:https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki-and-yuri/
+
 # The Main Reason
 So i notice there was alot of ads in the page that also slow down or lag the game especially on low performance Pc or Laptop 
 also u can use this sites to add it to a iframe to add it to your site (For example:Google Sites or Wix or Weebly) 
