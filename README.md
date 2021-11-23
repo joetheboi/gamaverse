@@ -24,8 +24,17 @@ Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
 Qt with Mod chart: https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
 
-Mami: https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
- Alt:https://fnf.run3.io/mami/2/
+|
+
+Mami
+
+https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
+
+Alt:https://fnf.run3.io/mami/2/
+
+Sk:https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
+
+|
 
 Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
