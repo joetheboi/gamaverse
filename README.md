@@ -74,6 +74,8 @@ HD:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-hd-friday-night-funkin/
 
 VS Hypno Creepypasta:https://gamaverse.com/c/f/g/fnf-lullaby-mod-friday-night-funkin/
 
+Monochrome Mount Silver:https://gamaverse.com/c/f/g/fnf-mount-silver-sings-monochrome/?1637096428
+
 Vs Camellia:https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
 FNF-Dusttale:https://gamaverse.com/c/f/g/fnf-dusttale-remastered-online-friday-night-funkin/
