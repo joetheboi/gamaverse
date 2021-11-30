@@ -86,7 +86,12 @@ DDLC:https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki
 
 Mr. Beast: TeamSeas:https://gamaverse.com/c/f/g/fnf-vs-mr-beast-teamseas-friday-night-funkin/
 
-test(Tomb Run) https://gamaverse.com/c/f/g/tomb-run-2019/?1589495269
+test
+
+Tomb Run https://gamaverse.com/c/f/g/tomb-run-2019/?1589495269
+
+Ritz:https://gamaverse.com/c/f/g/ritz/?1580119400
+
 # The Main Reason
 So i notice there was alot of ads in the page that also slow down or lag the game especially on low performance Pc or Laptop 
 also u can use this sites to add it to a iframe to add it to your site (For example:Google Sites or Wix or Weebly) 
