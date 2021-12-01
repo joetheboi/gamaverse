@@ -86,6 +86,8 @@ DDLC:https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki
 
 Mr. Beast: TeamSeas:https://gamaverse.com/c/f/g/fnf-vs-mr-beast-teamseas-friday-night-funkin/
 
+Applecore:https://gamaverse.com/c/f/g/fnf-applecore-dave-bambi-friday-night-funkin/?1638317492
+
 test
 
 Tomb Run https://gamaverse.com/c/f/g/tomb-run-2019/?1589495269
