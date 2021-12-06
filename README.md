@@ -88,6 +88,8 @@ Mr. Beast: TeamSeas:https://gamaverse.com/c/f/g/fnf-vs-mr-beast-teamseas-friday-
 
 Applecore:https://gamaverse.com/c/f/g/fnf-applecore-dave-bambi-friday-night-funkin/?1638317492
 
+Monika.exe:https://gamaverse.com/c/f/g/fnf-vs-monika-exe-triple-trouble/?1638741320
+
 test
 
 Tomb Run https://gamaverse.com/c/f/g/tomb-run-2019/?1589495269
