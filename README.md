@@ -39,7 +39,13 @@ Sk:https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
 
-Sonic.EXE:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/ Low:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
+Sonic.EXE
+
+https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/  
+
+Mid: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/?1638413157 
+
+Low:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
 
 
 Vs./V/: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
