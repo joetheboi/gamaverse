@@ -1,16 +1,26 @@
-# gameverse-fnf
-GameVerse FNF
-tell me what to add in "issues"  Also The Reason why i made this is down this page
+# Gamaverse Links
 
+## *FNF*
 
+### Starecrown
+   - Full Week:https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
+### Tabi
+   - HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
+   - Talladaga Remex:https://gamaverse.com/c/f/g/fnf-tabi-sings-talladega-from-vs-shaggy/?1637420267
+   - Neo:https://gamaverse.com/c/f/g/fnf-vs-neo-tabi-online-friday-night-funkin/?1632331913
+   - Bad:https://gamaverse.com/c/f/g/friday-night-funkin-fnf-vs-ex-boyfriend-tabi-but-bad/?1622383481
+   - Retrospecter Remix:https://gamaverse.com/c/f/g/friday-night-funkin-fnf-tabi-genocide-retrospecter-remix/?1621805922
+   - Ballistic Remix:https://gamaverse.com/c/f/g/friday-night-funkin-tabi-sings-ballistic/?1621775506
+   - Ugh Remix:https://gamaverse.com/c/f/g/friday-night-funkin-tabi-sings-ugh/?1621546398
+   - Original:https://gamaverse.com/c/f/g/friday-night-funkin-vs-tabi-ex-boyfriend/?1621276826
 
-
-Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
-
-Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
-
-Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
+### Zardy
+   - HD:https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
+   - Original:https://gamaverse.com/c/f/g/friday-night-funkin-vs-zardy/?1630451782
+   - Accelerant:https://gamaverse.com/c/f/g/fnf-vs-accelerant-zardy-friday-night-funkin/?1637462416
+   - Retrospecter Remix:https://gamaverse.com/c/f/g/fnf-vs-zardy-foolhardy-retrospecter-remix-modcharted/?1637803240
+   - Shaggy and more:https://gamaverse.com/c/f/g/fnf-shaggy-x-matt-x-tricky-x-bob-x-whitty-x-zardy/?1632097805
 
 BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
 
