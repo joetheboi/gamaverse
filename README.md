@@ -2,6 +2,9 @@
 
 ## *FNF*
 
+### Multiplayer
+https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
+
 ### Starecrown
    - Full Week:https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
@@ -22,43 +25,41 @@
    - Retrospecter Remix:https://gamaverse.com/c/f/g/fnf-vs-zardy-foolhardy-retrospecter-remix-modcharted/?1637803240
    - Shaggy and more:https://gamaverse.com/c/f/g/fnf-shaggy-x-matt-x-tricky-x-bob-x-whitty-x-zardy/?1632097805
 
-BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
+### BETADCIU 
+   - Potato Edition:https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin
+   - Original:https://gamaverse.com/c/f/g/fnf-betadciu-but-every-turn-a-different-cover-is-used-friday-night-funkin/?1637543248
+   - Endless:https://gamaverse.com/c/f/g/fnf-endless-betadciu-friday-night-funkin/?1632097509
+   - Endless Potato:https://gamaverse.com/c/f/g/fnf-betadciu-but-every-turn-a-different-cover-is-used-friday-night-funkin/?1637543248
+  
+### In The Galaxy 2.0
+   - Original: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update-friday-night-funkin/
+### 21 Kid
+   - Original: https://gamaverse.com/c/f/g/fnf-21-kid-friday-night-funkin/
 
-In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update-friday-night-funkin/
+### Mid-Fight 
+   - HD Potato: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
+   - HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-deluxe-edition-online/?1636040044
+   - Deluxe:https://gamaverse.com/c/f/g/fnf-mid-fight-masses-deluxe-edition-online/?1636040044
 
-21 Kid: https://gamaverse.com/c/f/g/fnf-21-kid-friday-night-funkin/
+### Void 
+   - Original:https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
-Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
+### QT
+   - Origial: https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
+   - Bad Luck:https://gamaverse.com/c/f/g/fnf-bad-luck-qt-friday-night-funkin/?1632780377
+### Mami
+   - Original:https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
+     Alt:https://fnf.run3.io/mami/2/
+     Sk:https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 
-Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
-
-Qt with Mod chart: https://gamaverse.com/c/f/g/fnf-qt-mod-w-cheatbot-friday-night-funkin/
-
-|
-
-Mami
-
-https://gamaverse.com/c/f/g/fnf-vs-mami-tomoe-demo-friday-night-funkin/
-
-Alt:https://fnf.run3.io/mami/2/
-
-Sk:https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
-
-|
-
-Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
-
-
-Sonic.EXE
-
-https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/  
-
-Mid: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/?1638413157 
-
-Low:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
+### Sonic.EXE
+   - Original:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/  
+   - Mid: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/?1638413157 
+   - Low:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
 
 
-Vs./V/: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
+### Vs./v/
+   - Original: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
 
 Fever: https://gamaverse.com/c/f/g/fnf-friday-night-fever/
 
