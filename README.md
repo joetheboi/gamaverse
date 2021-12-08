@@ -98,6 +98,8 @@ Monochrome Mount Silver:https://gamaverse.com/c/f/g/fnf-mount-silver-sings-monoc
 
 Vs Camellia:https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
+EXPURGAION Retrospecter:https://gamaverse.com/c/f/g/fnf-vs-tricky-retrospecters-expurgation-remix-friday-night-funkin/?1623977791
+
 FNF-Dusttale:https://gamaverse.com/c/f/g/fnf-dusttale-remastered-online-friday-night-funkin/
 
 Little Man 2:https://gamaverse.com/c/f/g/fnf-vs-little-man-2-online-friday-night-funkin/
