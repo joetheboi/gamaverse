@@ -4,7 +4,7 @@
 ## *FNF*
 
 ### Multiplayer
-https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
+   - https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
 
 ### Starecrown
    - Full Week:https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
@@ -57,40 +57,29 @@ https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-n
    - Original:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/  
    - Mid: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/?1638413157 
    - Low:https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
-
-
+   - Fever Remix:https://gamaverse.com/c/f/g/fnf-endless-fever-town-x-sonic-exe-betadciu/?1639185748
+   - You Can't Run + Expurgation:https://gamaverse.com/c/f/g/fnf-sonic-exe-vs-tricky-you-cant-run-expurgation/?1639185882
+   - Monika.exe Triple Trouble:https://gamaverse.com/c/f/g/fnf-vs-monika-exe-triple-trouble/?163918589
+   - Final Contract:Triple Trouble:https://gamaverse.com/c/f/g/fnf-final-contract-a-triple-trouble-sphere-god-cover/?1639185910
+   - The Fun Gang Sings Triple Trouble:https://gamaverse.com/c/f/g/fnf-the-fun-gang-sings-triple-trouble/?1639399638
+   - Endless:https://gamaverse.com/c/f/g/fnf-endless-betadciu-friday-night-funkin/?1632097509
+   - Endless Potato:https://gamaverse.com/c/f/g/fnf-betadciu-but-every-turn-a-different-cover-is-used-friday-night-funkin/?1637543248
 ### Vs./v/
    - Original: https://gamaverse.com/c/f/g/fnf-vs-v-friday-night-funkin/
-
-Fever: https://gamaverse.com/c/f/g/fnf-friday-night-fever/
+### Fever
+   - Original https://gamaverse.com/c/f/g/fnf-friday-night-fever/
+   - Endless:https://gamaverse.com/c/f/g/fnf-endless-fever-town-x-sonic-exe-betadciu/?1639185748
+### Suicide Mouse
+   - Original:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-sunday-night-suicide/
+   - NEO:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-neo-3-0/
+   - But bad:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-but-bad-friday-night-funkin/
+   - HD:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-hd-friday-night-funkin/
+### Bob And Bosip
+   - LOW: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/
+   - High:https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosipo-friday-night-funkin/?10
 
 Accelerant Hank:https://gamaverse.com/c/f/g/fnf-vs-accelerant-hank-friday-night-funkin/
 
-   B&B 
-
-LOW: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/
-
-High:https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosipo-friday-night-funkin/?10
-
-Accelerant Hank:https://gamaverse.com/c/f/g/fnf-vs-accelerant-hank-friday-night-funkin/
-
-   Endless(BETACIU)
-
-Low:https://gamaverse.com/c/f/g/fnf-endless-betadciu-potato-edition/
-
-High:https://gamaverse.com/c/f/g/fnf-endless-betadciu-friday-night-funkin/
-
-   SUICIDE MOUSE
-
-Original:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-sunday-night-suicide/
-
-NEO:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-neo-3-0/
-
-But bad:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-but-bad-friday-night-funkin/
-
-HD:https://gamaverse.com/c/f/g/fnf-vs-suicide-mouse-hd-friday-night-funkin/
-
-|
 
 VS Hypno Creepypasta:https://gamaverse.com/c/f/g/fnf-lullaby-mod-friday-night-funkin/
 
