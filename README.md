@@ -99,6 +99,8 @@ Mr. Beast: TeamSeas:https://gamaverse.com/c/f/g/fnf-vs-mr-beast-teamseas-friday-
 
 Applecore:https://gamaverse.com/c/f/g/fnf-applecore-dave-bambi-friday-night-funkin/?1638317492
 
+https://gamaverse.com/c/f/g/fnf-applecore-dave-bambi-friday-night-funkin/?embd
+
 Monika.exe:https://gamaverse.com/c/f/g/fnf-vs-monika-exe-triple-trouble/?1638741320
 
 test
