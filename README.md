@@ -5,6 +5,7 @@
 
 ### Multiplayer
    - https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
+   - Mc:https://lustrousemoointroductory.dazaseal.repl.co/sealcentralclient.html
 
 ### Starecrown
    - Full Week:https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
