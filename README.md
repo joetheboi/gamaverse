@@ -2,7 +2,6 @@
 ### Link:(www.gamaverse.com)
 
 ## *FNF*
-https://static-login.nvidia.com/service/gfn/index.html?state=Cueimjoo9tN1O8D4hhX6OpoohbqLc_bSu4mnRwygebSXYJfnnz27FIGJoy9Qnimn9McyrkOFZESw8dHN5LQr9g&redirect_uri=https%3A%2F%2Flogin.nvidia.com%2Fcallback%2Fprovider&idp_ids=pC8KYgDzm2TMgkPO1YlOSj8PjhT57JIbdlwDfFZNZFA+QwbAt7Fqmb5vmdOCuXtIlAF3YOACR4rot7xirVFlnkE+HVmQH98-CMT7FBuj_X3_QPmEYhJ-zzvFvM3mwmWwczw+SBcX86bSGvOo6kgTpV_dRtqSs_3uU0hsK3r1JZGQElo+IYn6P5z3oQKeManspu7uvNfwsA1ck3tW8OEfMXV1x90+Q1qniNEW0JjufNnXEqzjTONfWoEYAvTdsg5mBRsEork+e2SnCkOjoqZiiDRhjSDVv0xzWjJ28vntfo933yWSKx4+RKXmHOBNRDDanJuCoQX8V30S8KjsxaoW1XkycvLdqG8+PDiAhv2kJTFeQ7WOPqiQ2tRZ7lGhR2X11dXvM4TZSxg+JXD32iicWNHj0MvpwPV4RoThJvKYCJj1NTubcsJDFgc+UPWx8p5zwVUqGXorNji6qCzocVGDNWN7rqmPexEvedY&ui_locales=en_US
 
 ### Multiplayer
    - https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
