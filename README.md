@@ -2,6 +2,7 @@
 ### Link:(www.gamaverse.com)
 
 ## *FNF*
+https://monkecraft-1.themonkeexe2.repl.co/
 
 ### Multiplayer
    - https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
