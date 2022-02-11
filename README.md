@@ -3,6 +3,7 @@
 
 ## *FNF*
 https://monkecraft-1.themonkeexe2.repl.co/
+https://replit.com/@ayunami2000/eaglercraft-server
 
 ### Multiplayer
    - https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/
